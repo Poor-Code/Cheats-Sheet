@@ -1,0 +1,5 @@
+MassDNS :
+IPv4 : massdns -r resolvers.txt -t A -o S -w ipv4_results.txt subang.go.id.txt
+IPv6 : massdns -r resolvers.txt -t AAAA -o S -w ipv6_results.txt subang.go.id.txt
+
+untuk info lebih lengkap tinggal baca aja dokumentasi dari massDNS.

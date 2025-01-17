@@ -1,0 +1,7 @@
+Subfinder :
+subfinder -d <target> -all -silent -o <name output>
+
+Assetfinder :
+assetfinder <target> | anew <name output>
+
+bisa juga kunjungi website : https://subdomainfinder.c99.nl/
